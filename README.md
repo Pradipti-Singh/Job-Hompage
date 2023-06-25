@@ -1,5 +1,5 @@
 # Job-Hompage
-Platorm used - Canva,Figma
+Platorm used - Canva,Figma,freepik<br>
 logo - selfmade
 
 
